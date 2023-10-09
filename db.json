@@ -1,0 +1,14 @@
+{
+  "status" : {
+    "location" : {
+      "code": 61000,
+      "status": true,
+      "msg": "",
+      "timestamp": 202222,
+      "data" : "",
+      "building" : 1,
+      "floor": 1,
+      "coordinate": "",
+      "takeElevatorStatus": "true"
+    }
+}
