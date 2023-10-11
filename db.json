@@ -1,6 +1,5 @@
 {
-    "status": {
-        "location": {
+    "robotloc": {
             "code": 61000,
             "status": true,
             "msg": "",
@@ -10,6 +9,5 @@
             "floor" : 1,
             "coordinate" : "",
             "takeElevatorStatus" : "true"
-        }
     }
 }
