@@ -57,6 +57,7 @@
     ],
     "robotduties": [
         { 
+            "id": 1,
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -66,15 +67,16 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                    "remainingDistance": null, 
-                    "waitQueuing": null, 
-                    "remainingWaitTime": null, 
-                    "lastUpdateTime": null, 
-                    "taskResponse": null, 
-                    "robotId": "20:BA:05:99:8A:5B" 
-                } 
+                        "remainingDistance": null, 
+                        "waitQueuing": null, 
+                        "remainingWaitTime": null, 
+                        "lastUpdateTime": null, 
+                        "taskResponse": null, 
+                        "robotId": "20:BA:05:99:8A:5B" 
+                    } 
         },
-        { 
+        {
+            "id": 2,
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -84,15 +86,16 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                    "remainingDistance": null, 
-                    "waitQueuing": null, 
-                    "remainingWaitTime": null, 
-                    "lastUpdateTime": null, 
-                    "taskResponse": null, 
-                    "robotId": "20:BA:05:99:8A:5B" 
-                } 
+                        "remainingDistance": null, 
+                        "waitQueuing": null, 
+                        "remainingWaitTime": null, 
+                        "lastUpdateTime": null, 
+                        "taskResponse": null, 
+                        "robotId": "20:BA:05:99:8A:5B" 
+                    } 
         },
-        { 
+        {
+            "id": 3,
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -102,15 +105,16 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                    "remainingDistance": null, 
-                    "waitQueuing": null, 
-                    "remainingWaitTime": null, 
-                    "lastUpdateTime": null, 
-                    "taskResponse": null, 
-                    "robotId": "20:BA:05:99:8A:5B" 
-                } 
+                        "remainingDistance": null, 
+                        "waitQueuing": null, 
+                        "remainingWaitTime": null, 
+                        "lastUpdateTime": null, 
+                        "taskResponse": null, 
+                        "robotId": "20:BA:05:99:8A:5B" 
+                    } 
         },
-        { 
+        {
+            "id": 4,
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -120,13 +124,90 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                    "remainingDistance": null, 
-                    "waitQueuing": null, 
-                    "remainingWaitTime": null, 
-                    "lastUpdateTime": null, 
-                    "taskResponse": null, 
-                    "robotId": "20:BA:05:99:8A:5B" 
-                } 
+                        "remainingDistance": null, 
+                        "waitQueuing": null, 
+                        "remainingWaitTime": null, 
+                        "lastUpdateTime": null, 
+                        "taskResponse": null, 
+                        "robotId": "20:BA:05:99:8A:5B" 
+                    } 
+        }
+    ],
+    "robotcontainers": [
+        {
+            "id": 1,
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 33623270873,
+            "data": {
+            "cabinType": "1",
+            "cabins": [
+                    {
+                        "cabin": "1",
+                        "cabinDoorStatus ": "1"
+                    }
+            ]
+        },
+        {
+            "id": 2,
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 33623270880,
+            "data": {
+            "cabinType": "1",
+            "cabins": [
+                    {
+                        "cabin": "1",
+                        "cabinDoorStatus ": "4"
+                    }
+            ]
+        },
+        {
+            "id": 3,
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 33623270900,
+            "data": {
+            "cabinType": "1",
+            "cabins": [
+                    {
+                        "cabin": "1",
+                        "cabinDoorStatus ": "2"
+                    }
+            ]
+        },
+        {
+            "id": 4,
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 33623270950,
+            "data": {
+            "cabinType": "1",
+            "cabins": [
+                    {
+                        "cabin": "1",
+                        "cabinDoorStatus ": "3"
+                    }
+            ]
+        },
+        {
+            "id": 5,
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 33623270950,
+            "data": {
+            "cabinType": "1",
+            "cabins": [
+                    {
+                        "cabin": "1",
+                        "cabinDoorStatus ": "1"
+                    }
+            ]
         }
     ]
 }
