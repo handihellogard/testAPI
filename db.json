@@ -73,7 +73,8 @@
                         "lastUpdateTime": null, 
                         "taskResponse": null, 
                         "robotId": "20:BA:05:99:8A:5B" 
-                    } 
+                    }
+            }
         },
         {
             "id": 2,
@@ -92,7 +93,8 @@
                         "lastUpdateTime": null, 
                         "taskResponse": null, 
                         "robotId": "20:BA:05:99:8A:5B" 
-                    } 
+                    }
+            }
         },
         {
             "id": 3,
@@ -111,7 +113,8 @@
                         "lastUpdateTime": null, 
                         "taskResponse": null, 
                         "robotId": "20:BA:05:99:8A:5B" 
-                    } 
+                    }
+            }
         },
         {
             "id": 4,
@@ -130,7 +133,8 @@
                         "lastUpdateTime": null, 
                         "taskResponse": null, 
                         "robotId": "20:BA:05:99:8A:5B" 
-                    } 
+                    }
+            }
         }
     ],
     "robotcontainers": [
