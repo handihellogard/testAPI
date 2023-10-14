@@ -7,18 +7,55 @@
     },
     "robot": [
             {
-                "id": 1,
-                "location": [
+                "id": "bob",
+                "locations": [
                     {
+                        "id": 1,
                         "code": 61000,
                         "status": true,
                         "msg": "",
-                        "timestamp": 202222,
+                        "timestamp": 33623270000,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                     {
+                        "id": 2,
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 33623271000,
                         "data": "",
                         "building" : 1,
                         "floor" : 1,
                         "coordinate" : "",
                         "takeElevatorStatus" : "true"
+                    },
+                     {
+                        "id": 3,
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 33623271100,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                     {
+                        "id": 4,
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 33623271110,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
                     }
                 ]
             }
