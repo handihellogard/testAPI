@@ -1,13 +1,24 @@
 {
-    "robotloc": {
-            "code": 61000,
-            "status": true,
-            "msg": "",
-            "timestamp": 202222,
-            "data": "",
-            "building" : 1,
-            "floor" : 1,
-            "coordinate" : "",
-            "takeElevatorStatus" : "true"
-    }
+    "robotauth": {
+        "access_token": "009a8332",
+        "token_type": "bearer",
+        "expires_in": 6616,
+        "scope": "all"
+    },
+    "robot": [
+            {
+                "id": 1,
+                "location": {        
+                    "code": 61000,
+                    "status": true,
+                    "msg": "",
+                    "timestamp": 202222,
+                    "data": "",
+                    "building" : 1,
+                    "floor" : 1,
+                    "coordinate" : "",
+                    "takeElevatorStatus" : "true"
+                }
+            }
+    ]
 }
