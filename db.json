@@ -5,10 +5,7 @@
         "expires_in": 6616,
         "scope": "all"
     },
-    "robot": [
-            {
-                "id": "bob",
-                "locations": [
+    "robotlocations": [
                     {
                         "id": 1,
                         "code": 61000,
@@ -45,7 +42,7 @@
                         "coordinate" : "",
                         "takeElevatorStatus" : "true"
                     },
-                     {
+                    {
                         "id": 4,
                         "code": 61000,
                         "status": true,
@@ -57,7 +54,5 @@
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
                     }
-                ]
-            }
-    ]
+        ]
 }
