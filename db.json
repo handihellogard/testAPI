@@ -55,6 +55,24 @@
                         "takeElevatorStatus" : "false"
                     }
     ],
+    "robotstatus": [
+        {
+            "id": 1,
+            "code": 61000,
+            "msg": "",
+             "data": {
+                 "total" : "",
+                 "list" : {
+                     "robotId" : "",
+                     "startTime": "",
+                     "endTime": "",
+                     "totalMileage": "",
+                     "storeId":"",
+                     "bizType":0
+                 }
+             }
+        }
+    ],
     "robotduties": [
         { 
             "id": 1,
