@@ -67,7 +67,7 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                        "remainingDistance": null, 
+                        "remainingDistance": 100, 
                         "waitQueuing": null, 
                         "remainingWaitTime": null, 
                         "lastUpdateTime": null, 
@@ -87,7 +87,7 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                        "remainingDistance": null, 
+                        "remainingDistance": 50, 
                         "waitQueuing": null, 
                         "remainingWaitTime": null, 
                         "lastUpdateTime": null, 
@@ -107,7 +107,7 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                        "remainingDistance": null, 
+                        "remainingDistance": 20, 
                         "waitQueuing": null, 
                         "remainingWaitTime": null, 
                         "lastUpdateTime": null, 
@@ -127,7 +127,7 @@
                     "remark": null, 
                     "deviceId": "HMeLwvGP", 
                     "taskData": { 
-                        "remainingDistance": null, 
+                        "remainingDistance": 0, 
                         "waitQueuing": null, 
                         "remainingWaitTime": null, 
                         "lastUpdateTime": null, 
