@@ -145,13 +145,14 @@
             "msg": "success",
             "timestamp": 33623270873,
             "data": {
-            "cabinType": "1",
-            "cabins": [
-                    {
-                        "cabin": "1",
-                        "cabinDoorStatus ": "1"
-                    }
-            ]
+                "cabinType": "1",
+                "cabins": [
+                            {
+                                "cabin": "1",
+                                "cabinDoorStatus ": "1"
+                            }
+                ]
+            }
         },
         {
             "id": 2,
@@ -160,13 +161,14 @@
             "msg": "success",
             "timestamp": 33623270880,
             "data": {
-            "cabinType": "1",
-            "cabins": [
-                    {
-                        "cabin": "1",
-                        "cabinDoorStatus ": "4"
-                    }
-            ]
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "4"
+                        }
+                ]
+            }
         },
         {
             "id": 3,
@@ -175,13 +177,14 @@
             "msg": "success",
             "timestamp": 33623270900,
             "data": {
-            "cabinType": "1",
-            "cabins": [
-                    {
-                        "cabin": "1",
-                        "cabinDoorStatus ": "2"
-                    }
-            ]
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "2"
+                        }
+                ]
+            }
         },
         {
             "id": 4,
@@ -190,13 +193,14 @@
             "msg": "success",
             "timestamp": 33623270950,
             "data": {
-            "cabinType": "1",
-            "cabins": [
-                    {
-                        "cabin": "1",
-                        "cabinDoorStatus ": "3"
-                    }
-            ]
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "3"
+                        }
+                ]
+            }
         },
         {
             "id": 5,
@@ -205,13 +209,14 @@
             "msg": "success",
             "timestamp": 33623270950,
             "data": {
-            "cabinType": "1",
-            "cabins": [
-                    {
-                        "cabin": "1",
-                        "cabinDoorStatus ": "1"
-                    }
-            ]
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "1"
+                        }
+                ]
+            }
         }
     ]
 }
