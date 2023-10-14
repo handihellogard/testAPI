@@ -54,5 +54,79 @@
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
                     }
-        ]
+    ],
+    "robotduties": [
+        { 
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                    "taskNo": "f4ca7eb572f64", 
+                    "taskStatus": 2, 
+                    "errorCode": null, 
+                    "remark": null, 
+                    "deviceId": "HMeLwvGP", 
+                    "taskData": { 
+                    "remainingDistance": null, 
+                    "waitQueuing": null, 
+                    "remainingWaitTime": null, 
+                    "lastUpdateTime": null, 
+                    "taskResponse": null, 
+                    "robotId": "20:BA:05:99:8A:5B" 
+                } 
+        },
+        { 
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                    "taskNo": "f4ca7eb572f64", 
+                    "taskStatus": 3, 
+                    "errorCode": null, 
+                    "remark": null, 
+                    "deviceId": "HMeLwvGP", 
+                    "taskData": { 
+                    "remainingDistance": null, 
+                    "waitQueuing": null, 
+                    "remainingWaitTime": null, 
+                    "lastUpdateTime": null, 
+                    "taskResponse": null, 
+                    "robotId": "20:BA:05:99:8A:5B" 
+                } 
+        },
+        { 
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                    "taskNo": "f4ca7eb572f64", 
+                    "taskStatus": 6, 
+                    "errorCode": null, 
+                    "remark": null, 
+                    "deviceId": "HMeLwvGP", 
+                    "taskData": { 
+                    "remainingDistance": null, 
+                    "waitQueuing": null, 
+                    "remainingWaitTime": null, 
+                    "lastUpdateTime": null, 
+                    "taskResponse": null, 
+                    "robotId": "20:BA:05:99:8A:5B" 
+                } 
+        },
+        { 
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                    "taskNo": "f4ca7eb572f64", 
+                    "taskStatus": 4, 
+                    "errorCode": null, 
+                    "remark": null, 
+                    "deviceId": "HMeLwvGP", 
+                    "taskData": { 
+                    "remainingDistance": null, 
+                    "waitQueuing": null, 
+                    "remainingWaitTime": null, 
+                    "lastUpdateTime": null, 
+                    "taskResponse": null, 
+                    "robotId": "20:BA:05:99:8A:5B" 
+                } 
+        }
+    ]
 }
