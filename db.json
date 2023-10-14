@@ -8,7 +8,7 @@
     "robot": [
             {
                 "id": 1,
-                "location": {        
+                "location": [        
                     "code": 61000,
                     "status": true,
                     "msg": "",
@@ -18,7 +18,7 @@
                     "floor" : 1,
                     "coordinate" : "",
                     "takeElevatorStatus" : "true"
-                }
+                ]
             }
     ]
 }
