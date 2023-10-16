@@ -61,16 +61,43 @@
             "code": 61000,
             "msg": "",
              "data": {
-                 "total" : "",
-                 "list" : {
-                     "robotId" : "",
-                     "startTime": "",
-                     "endTime": "",
-                     "totalMileage": "",
-                     "storeId":"",
-                     "bizType":0
-                 }
+                 "total" : 1,
+                 "list" : [
+                         {
+                         "robotId" : "",
+                         "startTime": "",
+                         "endTime": "",
+                         "totalMileage": "",
+                         "storeId":"",
+                         "bizType":0
+                     }
+                 ]
              }
+        },
+        { 
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                "total": 2, 
+                "list":[ 
+                    { 
+                        "robotId":"60:FB:00:96:8F:CF", 
+                        "startTime":"2023-10-13 12:13:23", 
+                        "endTime":"2023-10-13 12:15:23", 
+                        "totalMileage": 12.3, 
+                        "storeId":"C00031759", 
+                        "bizType": 5 
+                    }, 
+                    { 
+                        "robotId":"60:FB:00:96:8F:CF", 
+                        "startTime":"2023-10-13 12:23:23", 
+                        "endTime":"2023-10-13 12:24:23", 
+                        "totalMileage": 10.1, 
+                        "storeId":"C00031759", 
+                        "bizType": 5 
+                    } 
+                ] 
+            } 
         }
     ],
     "robotduties": [
