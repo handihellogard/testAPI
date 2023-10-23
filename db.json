@@ -58,6 +58,7 @@
     "robotstatus": [
         {
             "id": 1,
+            "iddef":"start",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -76,6 +77,7 @@
         },
         {
             "id": 2,
+            "iddef":"finishedDelivery",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -94,6 +96,7 @@
         },
         {
             "id": 3,
+            "iddef":"backtostation",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
