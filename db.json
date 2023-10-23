@@ -65,6 +65,24 @@
                 "list":[ 
                     { 
                         "robotId":"20:BA:05:99:8A:5B", 
+                        "startTime":"2023-10-13 12:13:00", 
+                        "endTime":"null", 
+                        "totalMileage": 0, 
+                        "storeId":"C00031759", 
+                        "bizType": 1 
+                    }
+                ] 
+            } 
+        },
+        {
+            "id": 2,
+            "code": 610000, 
+            "msg": "Request successful", 
+            "data": { 
+                "total": 1, 
+                "list":[ 
+                    { 
+                        "robotId":"20:BA:05:99:8A:5B", 
                         "startTime":"2023-10-13 12:13:23", 
                         "endTime":"2023-10-13 12:15:23", 
                         "totalMileage": 12.3, 
@@ -75,7 +93,7 @@
             } 
         },
         {
-            "id": 2,
+            "id": 3,
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
