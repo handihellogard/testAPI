@@ -47,7 +47,7 @@
                     },
                     {
                         "id": 4,
-                        "iddef": "outElevator”,
+                        "iddef": "outElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
