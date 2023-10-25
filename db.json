@@ -246,23 +246,6 @@
     "robotcontainers": [
         {
             "id": 1,
-            "iddef": "itemInCabinClosed",
-            "code": 610000,
-            "status": true,
-            "msg": "success",
-            "timestamp": 1697217192,
-            "data": {
-                "cabinType": "1",
-                "cabins": [
-                            {
-                                "cabin": "1",
-                                "cabinDoorStatus ": "1"
-                            }
-                ]
-            }
-        },
-        {
-            "id": 2,
             "iddef": "cabinOpenByOwner",
             "code": 610000,
             "status": true,
@@ -279,7 +262,7 @@
             }
         },
         {
-            "id": 3,
+            "id": 2,
             "iddef": "itemOutCabinOpened",
             "code": 610000,
             "status": true,
@@ -296,7 +279,7 @@
             }
         },
         {
-            "id": 4,
+            "id": 3,
             "iddef": "cabinClosed",
             "code": 610000,
             "status": true,
