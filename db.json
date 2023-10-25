@@ -8,7 +8,7 @@
     "robotlocations": [
                     {
                         "id": 1,
-                        "iddef": "start"
+                        "iddef": "goingtoelevator"
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -21,7 +21,7 @@
                     },
                      {
                         "id": 2,
-                        "iddef": "riding",
+                        "iddef": "ridingelevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -34,7 +34,7 @@
                     },
                      {
                         "id": 3,
-                        "iddef": "riding",
+                        "iddef": "ridingelevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -68,6 +68,71 @@
                         "data": "",
                         "building" : 1,
                         "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 5,
+                        "iddef": "backtoelevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217743,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 6,
+                        "iddef": "ridingelevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217923,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 7,
+                        "iddef": "ridingelevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218103,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 8,
+                        "iddef": "outelevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218403,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 9,
+                        "iddef": "backtostart",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218823,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
                     }
