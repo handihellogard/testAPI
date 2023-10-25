@@ -34,19 +34,6 @@
                     },
                     {
                         "id": 3,
-                        "iddef": "rideElevator",
-                        "code": 61000,
-                        "status": true,
-                        "msg": "",
-                        "timestamp": 1697217372,
-                        "data": "",
-                        "building" : 1,
-                        "floor" : 2,
-                        "coordinate" : "",
-                        "takeElevatorStatus" : "true"
-                    },
-                    {
-                        "id": 4,
                         "iddef": "outElevator",
                         "code": 61000,
                         "status": true,
@@ -59,7 +46,7 @@
                         "takeElevatorStatus" : "false"
                     },
                     {
-                        "id": 5,
+                        "id": 4,
                         "iddef": "arrived",
                         "code": 61000,
                         "status": true,
@@ -68,6 +55,45 @@
                         "data": "",
                         "building" : 1,
                         "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 5,
+                        "iddef": "rideElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218103,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 6,
+                        "iddef": "outElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218403,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 7,
+                        "iddef": "backtoStart",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218823,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
                     }
@@ -271,23 +297,6 @@
         },
         {
             "id": 4,
-            "iddef": "cabinClosing",
-            "code": 610000,
-            "status": true,
-            "msg": "success",
-            "timestamp": 1697217710,
-            "data": {
-                "cabinType": "1",
-                "cabins": [
-                        {
-                            "cabin": "1",
-                            "cabinDoorStatus ": "3"
-                        }
-                ]
-            }
-        },
-        {
-            "id": 5,
             "iddef": "cabinClosed",
             "code": 610000,
             "status": true,
