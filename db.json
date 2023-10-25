@@ -149,5 +149,92 @@
                     }
             }
         }
+    ],
+    "robotcontainers": [
+        {
+            "id": 1,
+            "iddef": "itemInCabinClosed",
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 1697217192,
+            "data": {
+                "cabinType": "1",
+                "cabins": [
+                            {
+                                "cabin": "1",
+                                "cabinDoorStatus ": "1"
+                            }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "iddef": "cabinOpenByOwner",
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 1697217623,
+            "data": {
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "4"
+                        }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "iddef": "itemOutCabinOpened",
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 1697217683,
+            "data": {
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "2"
+                        }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "iddef": "cabinClosing",
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 1697217710,
+            "data": {
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "3"
+                        }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "iddef": "cabinClosed",
+            "code": 610000,
+            "status": true,
+            "msg": "success",
+            "timestamp": 1697217720,
+            "data": {
+                "cabinType": "1",
+                "cabins": [
+                        {
+                            "cabin": "1",
+                            "cabinDoorStatus ": "1"
+                        }
+                ]
+            }
+        }
     ]
 }
