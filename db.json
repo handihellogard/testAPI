@@ -31,6 +31,45 @@
                         "floor" : 1,
                         "coordinate" : "",
                         "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 3,
+                        "iddef": "rideElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217372,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 4,
+                        "iddef": "outElevator”,
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217503,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 5,
+                        "iddef": "arrived",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217623,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
                     }
      ],
     "robotstatus": [
