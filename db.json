@@ -70,6 +70,71 @@
                         "floor" : 2,
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 6,
+                        "iddef": "goToElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217743,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 7,
+                        "iddef": "rideElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217923,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 8,
+                        "iddef": "rideElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218103,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "true"
+                    },
+                    {
+                        "id": 9,
+                        "iddef": "outElevator",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218403,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 10,
+                        "iddef": "backtoStart",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697218823,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 1,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
                     }
      ],
     "robotstatus": [
