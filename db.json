@@ -70,19 +70,6 @@
                         "floor" : 2,
                         "coordinate" : "",
                         "takeElevatorStatus" : "false"
-                    },
-                    {
-                        "id": 6,
-                        "iddef": "goToElevator",
-                        "code": 61000,
-                        "status": true,
-                        "msg": "",
-                        "timestamp": 1697217743,
-                        "data": "",
-                        "building" : 1,
-                        "floor" : 2,
-                        "coordinate" : "",
-                        "takeElevatorStatus" : "false"
                     }
      ],
     "robotstatus": [
