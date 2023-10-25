@@ -21,7 +21,7 @@
                     },
                      {
                         "id": 2,
-                        "iddef": "ridingelevator",
+                        "iddef": "rideElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -34,7 +34,7 @@
                     },
                      {
                         "id": 3,
-                        "iddef": "ridingelevator",
+                        "iddef": "rideElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -73,7 +73,7 @@
                     },
                     {
                         "id": 5,
-                        "iddef": "backtoelevator",
+                        "iddef": "goToElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -86,7 +86,7 @@
                     },
                     {
                         "id": 6,
-                        "iddef": "ridingelevator",
+                        "iddef": "rideElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -99,7 +99,7 @@
                     },
                     {
                         "id": 7,
-                        "iddef": "ridingelevator",
+                        "iddef": "rideElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -112,7 +112,7 @@
                     },
                     {
                         "id": 8,
-                        "iddef": "outelevator",
+                        "iddef": "outElevator",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -125,7 +125,7 @@
                     },
                     {
                         "id": 9,
-                        "iddef": "backtostart",
+                        "iddef": "backtoStart",
                         "code": 61000,
                         "status": true,
                         "msg": "",
@@ -178,7 +178,7 @@
         },
         {
             "id": 3,
-            "iddef":"backtostation",
+            "iddef":"backToStart",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -199,7 +199,7 @@
     "robotduties": [
         { 
             "id": 1,
-            "iddef": "goingRidingExitingElevator",
+            "iddef": "rideExitElevator",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -220,7 +220,7 @@
         },
         {
             "id": 2,
-            "iddef": "arrivedDestination",
+            "iddef": "atDest",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -241,7 +241,7 @@
         },
         {
             "id": 3,
-            "iddef": "goingRidingExitingElevator",
+            "iddef": "rideExitElevator",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -262,7 +262,7 @@
         },
         {
             "id": 4,
-            "iddef": "backtostation",
+            "iddef": "backToStart",
             "code": 610000, 
             "msg": "Request successful", 
             "data": { 
@@ -285,7 +285,7 @@
     "robotcontainers": [
         {
             "id": 1,
-            "iddef": "putitem_closed",
+            "iddef": "itemInCabinClosed",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -302,7 +302,7 @@
         },
         {
             "id": 2,
-            "iddef": "cabin_opening_by_owner",
+            "iddef": "cabinOpenByOwner",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -319,7 +319,7 @@
         },
         {
             "id": 3,
-            "iddef": "cabin_fully_opened",
+            "iddef": "itemOutCabinOpened",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -336,7 +336,7 @@
         },
         {
             "id": 4,
-            "iddef": "item_is_out_cabin_closing",
+            "iddef": "cabinClosing",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -353,7 +353,7 @@
         },
         {
             "id": 5,
-            "iddef": "cabin_fully_closed",
+            "iddef": "cabinClosed",
             "code": 610000,
             "status": true,
             "msg": "success",
