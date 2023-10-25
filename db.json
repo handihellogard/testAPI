@@ -281,6 +281,7 @@
     "robotcontainers": [
         {
             "id": 1,
+            "iddef": "putitem_closed",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -297,6 +298,7 @@
         },
         {
             "id": 2,
+            "iddef": "cabin_opening_by_owner",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -313,6 +315,7 @@
         },
         {
             "id": 3,
+            "iddef": "cabin_fully_opened",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -329,6 +332,7 @@
         },
         {
             "id": 4,
+            "iddef": "item_is_out_cabin_closing",
             "code": 610000,
             "status": true,
             "msg": "success",
@@ -345,6 +349,7 @@
         },
         {
             "id": 5,
+            "iddef": "cabin_fully_closed",
             "code": 610000,
             "status": true,
             "msg": "success",
