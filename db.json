@@ -8,7 +8,7 @@
     "robotlocations": [
                     {
                         "id": 1,
-                        "iddef": "start"
+                        "iddef": "start",
                         "code": 61000,
                         "status": true,
                         "msg": "",
