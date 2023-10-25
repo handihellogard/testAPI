@@ -8,10 +8,11 @@
     "robotlocations": [
                     {
                         "id": 1,
+                        "iddef": "start"
                         "code": 61000,
                         "status": true,
                         "msg": "",
-                        "timestamp": 33623270000,
+                        "timestamp": 1697217192,
                         "data": "",
                         "building" : 1,
                         "floor" : 1,
@@ -20,10 +21,11 @@
                     },
                      {
                         "id": 2,
+                        "iddef": "riding",
                         "code": 61000,
                         "status": true,
                         "msg": "",
-                        "timestamp": 33623271000,
+                        "timestamp": 1697217312,
                         "data": "",
                         "building" : 1,
                         "floor" : 1,
@@ -32,10 +34,11 @@
                     },
                      {
                         "id": 3,
+                        "iddef": "riding",
                         "code": 61000,
                         "status": true,
                         "msg": "",
-                        "timestamp": 33623271100,
+                        "timestamp": 1697217372,
                         "data": "",
                         "building" : 1,
                         "floor" : 2,
@@ -44,10 +47,24 @@
                     },
                     {
                         "id": 4,
+                        "iddef": "out",
                         "code": 61000,
                         "status": true,
                         "msg": "",
-                        "timestamp": 33623271110,
+                        "timestamp": 1697217503,
+                        "data": "",
+                        "building" : 1,
+                        "floor" : 2,
+                        "coordinate" : "",
+                        "takeElevatorStatus" : "false"
+                    },
+                    {
+                        "id": 4,
+                        "iddef": "arrived",
+                        "code": 61000,
+                        "status": true,
+                        "msg": "",
+                        "timestamp": 1697217623,
                         "data": "",
                         "building" : 1,
                         "floor" : 2,
@@ -85,8 +102,8 @@
                 "list":[ 
                     { 
                         "robotId":"20:BA:05:99:8A:5B", 
-                        "startTime":"2023-10-13 12:13:23", 
-                        "endTime":"2023-10-13 12:15:23", 
+                        "startTime":"2023-10-13 12:13:00", 
+                        "endTime":"2023-10-13 12:20:23", 
                         "totalMileage": 12.3, 
                         "storeId":"C00031759", 
                         "bizType": 1 
@@ -104,8 +121,8 @@
                 "list":[ 
                     { 
                         "robotId":"20:BA:05:99:8A:5B", 
-                        "startTime":"2023-10-13 12:16:23", 
-                        "endTime":"2023-10-13 12:19:23", 
+                        "startTime":"2023-10-13 12:20:23", 
+                        "endTime":"2023-10-13 12:40:23", 
                         "totalMileage": 15, 
                         "storeId":"C00031759", 
                         "bizType": 4
